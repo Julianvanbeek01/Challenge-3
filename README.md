@@ -1,5 +1,5 @@
 # Challenge 3
-Voor deze opdracht heb ik een analoge klok gemaakt, waarop de tijd te zien is. Ook is op de pagina de datum te zien.
+Voor deze opdracht heb ik een kaart gemaakt waarop informatie te zien is voor de reizigers afkomstig van mars om te landen.
 
 ## Thema
 Voor het thema van deze challenge heb ik het thema dat ik ook bij challenge 1 voor het dashboard voor SpaceX gebruikt heb weer gebruikt.
